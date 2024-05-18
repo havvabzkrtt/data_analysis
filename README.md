@@ -232,7 +232,7 @@ Bir veri setindeki sayısal değişkenler arasındaki ilişkileri gösteren bir 
 
 Elde edilen korelasyon matrisi:
 
-![Korelasyon Matrisi](images/korelasyon_matrisi.PNG)
+![Korelasyon Matrisi](images/korelasyon_matrisi.png)
 
 Korelasyon matrisindeki sütunlar arasındaki korelasyon değerlerinin 1'e ve -1'e yaklaşması, sütunlar arasında pozitif ve negatif ilişkinin yüksek olmasını gösterir.
 
